@@ -8,7 +8,7 @@ export default defineConfig({
   description: "远处的霓虹灯亮了，像一道靓丽的风景线",
   srcDir: "./docs",
   assetsDir: 'assets',
-  base: '/m-docs/',
+  // base: '/m-docs/',
   themeConfig: {
     logo: '/logo.svg',
     // https://vitepress.dev/reference/default-theme-config
