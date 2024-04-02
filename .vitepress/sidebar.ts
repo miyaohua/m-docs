@@ -11,7 +11,7 @@ export default {
     ],
     '/Nest/': [
         {
-            text: 'Javascript',
+            text: 'Nest',
             items: [
                 { text: 'Jwt身份验证', link: '/Nest/jwt' }
             ]
