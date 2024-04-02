@@ -7,6 +7,7 @@ export default defineConfig({
   title: "m的笔记小站",
   description: "远处的霓虹灯亮了，像一道靓丽的风景线",
   srcDir: "./docs",
+  assetsDir: './docs',
   themeConfig: {
     logo: '/logo.svg',
     // https://vitepress.dev/reference/default-theme-config
