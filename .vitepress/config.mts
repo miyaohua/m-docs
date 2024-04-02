@@ -4,6 +4,7 @@ import sidebar from './sidebar'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: './',
   title: "m的笔记小站",
   description: "远处的霓虹灯亮了，像一道靓丽的风景线",
   srcDir: "./docs",
