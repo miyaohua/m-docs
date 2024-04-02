@@ -9,4 +9,12 @@ export default {
             ]
         }
     ],
+    '/Nest/': [
+        {
+            text: 'Javascript',
+            items: [
+                { text: 'Jwt身份验证', link: '/Nest/jwt' }
+            ]
+        }
+    ],
 }
