@@ -22,7 +22,7 @@ export default defineConfig({
     ],
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright m的笔记小站 © 2019-present Evan You'
+      copyright: '<a href="https://beian.miit.gov.cn" target="_blank">晋ICP备2023007256号-3</a >'
     }
   }
 })
